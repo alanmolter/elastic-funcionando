@@ -1,0 +1,15 @@
+# Ignorar ambientes virtuais
+venv/
+
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração
+.env
+
+.json
+
+.csv
